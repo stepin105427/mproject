@@ -1,0 +1,159 @@
+# depslib dependency file v1.0
+1601796886 source:f:\cblox\project-main\project\miniproject\csv.cpp
+	<sstream>
+	<iostream>
+	<string>
+	<list>
+	<iterator>
+	"data.h"
+
+1601797423 source:f:\cblox\project-main\project\miniproject\data.cpp
+	"unemp.h"
+	"rural.h"
+	"urban.h"
+	"data.h"
+	"csv.cpp"
+	<iostream>
+	<string>
+	<list>
+	<iterator>
+	<fstream>
+	<sstream>
+
+1601795061 f:\cblox\project-main\project\miniproject\unemp.h
+	<string>
+	<cstdint>
+
+1601794688 f:\cblox\project-main\project\miniproject\rural.h
+	<string>
+	<cstdint>
+	"unemp.h"
+
+1601795062 f:\cblox\project-main\project\miniproject\urban.h
+	<string>
+	<cstdint>
+	"unemp.h"
+
+1601796670 f:\cblox\project-main\project\miniproject\data.h
+	"unemp.h"
+	"rural.h"
+	"urban.h"
+	<iostream>
+	<list>
+	<iterator>
+
+1601795329 source:f:\cblox\project-main\project\miniproject\rural.cpp
+	"rural.h"
+	"unemp.h"
+	<string.h>
+	<math.h>
+
+1601795358 source:f:\cblox\project-main\project\miniproject\unemp.cpp
+	"unemp.h"
+	<iostream>
+	<string>
+	<math.h>
+
+1601795062 source:f:\cblox\project-main\project\miniproject\urban.cpp
+	"urban.h"
+	"unemp.h"
+	<string.h>
+	<math.h>
+
+1601797454 source:f:\cblox\project-main\project\miniproject\data_test.cpp
+	"unemp.h"
+	"rural.h"
+	"urban.h"
+	"data.h"
+	<gtest/gtest.h>
+
+1601794391 f:\cblox\project-main\project\miniproject\unemp.cpp
+	"unemp.h"
+	<iostream>
+	<string>
+	<math.h>
+
+1601796886 f:\cblox\project-main\project\miniproject\csv.cpp
+	<sstream>
+	<iostream>
+	<string>
+	<list>
+	<iterator>
+	"data.h"
+
+1601796886 source:f:\cblox\miniproject\project\csv.cpp
+	<sstream>
+	<iostream>
+	<string>
+	<list>
+	<iterator>
+	"data.h"
+
+1601802026 f:\cblox\miniproject\project\data.h
+	"unemp.h"
+	"rural.h"
+	"urban.h"
+	<iostream>
+	<list>
+	<iterator>
+
+1601795061 f:\cblox\miniproject\project\unemp.h
+	<string>
+	<cstdint>
+
+1601794688 f:\cblox\miniproject\project\rural.h
+	<string>
+	<cstdint>
+	"unemp.h"
+
+1601795062 f:\cblox\miniproject\project\urban.h
+	<string>
+	<cstdint>
+	"unemp.h"
+
+1601797833 source:f:\cblox\miniproject\project\data.cpp
+	"unemp.h"
+	"rural.h"
+	"urban.h"
+	"data.h"
+	"csv.cpp"
+	<iostream>
+	<string>
+	<list>
+	<iterator>
+	<fstream>
+	<sstream>
+
+1601796886 f:\cblox\miniproject\project\csv.cpp
+	<sstream>
+	<iostream>
+	<string>
+	<list>
+	<iterator>
+	"data.h"
+
+1601797454 source:f:\cblox\miniproject\project\data_test.cpp
+	"unemp.h"
+	"rural.h"
+	"urban.h"
+	"data.h"
+	<gtest/gtest.h>
+
+1601795329 source:f:\cblox\miniproject\project\rural.cpp
+	"rural.h"
+	"unemp.h"
+	<string.h>
+	<math.h>
+
+1601795358 source:f:\cblox\miniproject\project\unemp.cpp
+	"unemp.h"
+	<iostream>
+	<string>
+	<math.h>
+
+1601795062 source:f:\cblox\miniproject\project\urban.cpp
+	"urban.h"
+	"unemp.h"
+	<string.h>
+	<math.h>
+
